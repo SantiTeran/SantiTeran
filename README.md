@@ -8,4 +8,4 @@
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/santiago-teran/)
-- 📬 [santiagoterandc@gmail.com (mailto:santiagoteandc@gmail.com)]
+- 📬 [santiagoterandc@gmail.com]
