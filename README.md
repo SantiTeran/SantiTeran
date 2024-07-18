@@ -8,4 +8,4 @@
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/santiago-teran/)
-- 📬<a href="mailto:elcorreoquequieres@correo.com"> santiagoterandc@gmail.com </a>
+
